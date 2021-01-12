@@ -4,7 +4,7 @@ Given a linked list, swap every two adjacent nodes and return its head.
 
 ## Example 1
 
-![example 1](https://github.com/bjarnemagnussen/go-leetcode/blob/master/solutions/24.swap-nodes-in-pairs/swap_ex1.jpeg?raw=true)
+![example 1](https://github.com/bjarnemagnussen/go-leetcode/blob/master/solutions/0024.swap-nodes-in-pairs/swap_ex1.jpeg?raw=true)
 
 <pre>
 <b>Input:</b> head = [1,2,3,4]
